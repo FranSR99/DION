@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SignIn">Sign In</string>
+    <string name="MiHospital">MY HOSPITAL</string>
+    <string name="MiFarmacia">MY PHARMACY</string>
+    <string name="User">User</string>
+    <string name="Password">Password</string>
+    <string name="Wrong_SignIn">Wrong user or password</string>
+    <string name="Book_appointment">Book an appointment now</string>
+    <string name="Agenda_check">My appointments</string>
+    <string name="Make_order">Place a new order</string>
+    <string name="Delivery_state_pharmacy">State of my delivery</string>
+    <string name="Addtochart">Add to chart</string>
+    <string name="Prod1">Facial Cream Bilocatel</string>
+    <string name="Prod5">Durex Natural XL x12</string>
+    <string name="Prod6">Hand Cream Bilocatel</string>
+    <string name="Prod2">Tomas Crey Ointment</string>
+    <string name="Prod3">Hydroalcoholic Gel Dumas</string>
+    <string name="Prod4">Gelocatil Pack 20 units</string>
+</resources>

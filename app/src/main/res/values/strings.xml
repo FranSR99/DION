@@ -1,0 +1,20 @@
+<resources>
+    <string name="SignIn">Entrar</string>
+    <string name="MiHospital">MI HOSPITAL</string>
+    <string name="MiFarmacia">MI FARMACIA</string>
+    <string name="User">Usuario</string>
+    <string name="Password">Contraseña</string>
+    <string name="app_name" translatable="false">DION</string>
+    <string name="Wrong_SignIn">Usuario o contraseña incorrectos</string>
+    <string name="Book_appointment">Reserva una cita ahora</string>
+    <string name="Agenda_check">Mis citas</string>
+    <string name="Make_order">Realizar nuevo pedido</string>
+    <string name="Delivery_state_pharmacy">Estado de mi pedido</string>
+    <string name="Addtochart">Añadir al carrito</string>
+    <string name="Prod1">Crema facial Bilocatel</string>
+    <string name="Prod2">Pomada Tomás Crey</string>
+    <string name="Prod3">Gel Hidroalcohólico Dumás</string>
+    <string name="Prod4">Gelocatil Pack 20 comprimidos</string>
+    <string name="Prod5">Durex Natural XL x12</string>
+    <string name="Prod6">Crema de manos Bilocatel</string>
+</resources>

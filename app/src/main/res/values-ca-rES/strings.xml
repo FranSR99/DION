@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SignIn">Entrar</string>
+    <string name="MiHospital">EL MEU HOSPITAL</string>
+    <string name="MiFarmacia">LA MEVA FARMÀCIA</string>
+    <string name="User">Usuari</string>
+    <string name="Password">Contrasenya</string>
+    <string name="Wrong_SignIn">Usuari o contrasenya incorrectes</string>
+    <string name="Book_appointment">Reserva ara una consulta</string>
+    <string name="Agenda_check">Les meves consultes</string>
+    <string name="Make_order">Fer una nova comanda</string>
+    <string name="Delivery_state_pharmacy">Estat de la meva comanda</string>
+    <string name="Addtochart">Afegir a la cistella</string>
+    <string name="Prod1">Crema facial Bilocatel</string>
+    <string name="Prod2">Pomada Tomás Crey</string>
+    <string name="Prod3">Gel Hidroalcohólic Dumás</string>
+    <string name="Prod4">Gelocatil Pack 20 càpsules</string>
+    <string name="Prod5">Durex Natural XL x12</string>
+    <string name="Prod6">Crema de mans Bilocatel</string>
+</resources>
